@@ -54,6 +54,6 @@ figcaption {
 }
 
 /*Pseudo class selectors - select an element based on its relationship to other elements or its event state */
-#details a:link {
+#details a:link { /*a:link is the pseudo selector */
   
 }
