@@ -58,3 +58,7 @@ figcaption {
   color: black;
   text-decoration: none;
 }
+
+#details a:visited {
+  
+}
