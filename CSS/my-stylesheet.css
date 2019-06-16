@@ -11,6 +11,8 @@ paragraph elements --> p
 
 */
 
+@import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps&display=swap');
+
 p {
 font-size: 1em;
 line-height: 1.5em;
