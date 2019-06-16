@@ -45,4 +45,6 @@ figcaption {
 
 /*Descendant selector - select descendants within a parent element*/
 
-
+#logo h1 { /*only styles h1's if they are inside an element with id="logo" */
+  font-family: 'Clicker Script' ;
+}
